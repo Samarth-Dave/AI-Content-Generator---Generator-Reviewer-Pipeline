@@ -96,6 +96,14 @@ The Streamlit sidebar lets you set the MCQ count, so the output is not locked to
 
 That makes the flow visible in the exact way the PDF asks for.
 
+## UI screenshots
+
+The screenshots below show the interface layout and the reviewer output panel.
+
+![UI screenshot 1](UI/1.png)
+
+![UI screenshot 2](UI/2.png)
+
 ## Data contract
 
 Generator input:
