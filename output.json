@@ -1,0 +1,203 @@
+(.venv) (base) PS C:\Users\Samarth Dave\Desktop\internship> .\.venv\Scripts\python main.py --grade 5 --topic "Fractions as parts of a whole"
+{
+  "run_id": "2b7eaada-06aa-4e5e-90fb-87f8645eb26d",
+  "input": {
+    "grade": 5,
+    "topic": "Fractions as parts of a whole",
+    "user_id": "default_user"
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "draft": {
+        "explanation": {
+          "text": "Fractions are a way to show part of a whole. Imagine you have a pizza that is cut into 8 slices, and you eat 2 of them. You can write this as a fraction: 2/8. The top number, 2, tells us how many slices you ate, and the bottom number, 8, tells us how many slices there were in total. We can also simplify fractions to make them easier to understand. For example, 2/8 can be simplified to 1/4 because both numbers can be divided by 2.",
+          "grade": 5
+        },
+        "mcqs": [
+          {
+            "question": "If you have a cake that is cut into 12 pieces and you eat 3 of them, what fraction of the cake have you eaten?",
+            "options": [
+              "1/4",
+              "1/6",
+              "1/3",
+              "1/12"
+            ],
+            "correct_index": 2
+          }
+        ],
+        "teacher_notes": {
+          "learning_objective": "Students will be able to identify and write fractions as parts of a whole, and simplify fractions by dividing both numbers by their greatest common divisor.",
+          "common_misconceptions": [
+            "Students may think that the top number of a fraction always has to be smaller than the bottom number, which is not true."
+          ]
+        }
+      },
+      "review": {
+        "scores": {
+          "age_appropriateness": 1,
+          "correctness": 1,
+          "clarity": 1,
+          "coverage": 1
+        },
+        "pass": false,
+        "feedback": []
+      },
+      "refined": {
+        "explanation": {
+          "text": "Fractions are a way to show part of a whole. Imagine you have a pizza that is cut into 8 slices. If you eat 2 of them, you can say you ate 2 out of 8 slices, or 2/8 of the pizza. This is a fraction. The top number, 2, tells us how many slices you ate, and the bottom number, 8, tells us how many slices there were in total.",
+          "grade": 5
+        },
+        "mcqs": [
+          {
+            "question": "If a cake is cut into 12 pieces and you eat 3 of them, what fraction of the cake have you eaten?",
+            "options": [
+              "1/4",
+              "1/3",
+              "1/2",
+              "3/12"
+            ],
+            "correct_index": 3
+          }
+        ],
+        "teacher_notes": {
+          "learning_objective": "To understand that fractions represent parts of a whole",
+          "common_misconceptions": [
+            "Thinking that the top number of a fraction always has to be smaller than the bottom number"
+          ]
+        }
+      }
+    },
+    {
+      "attempt": 2,
+      "draft": {
+        "explanation": {
+          "text": "Fractions are a way to show part of a whole. Imagine you have a pizza that is cut into 8 slices. If you eat 2 of them, you can say you ate 2 out of 8 slices, or 2/8 of the pizza. This is a fraction. The top number, 2, tells us how many slices you ate, and the bottom number, 8, tells us how many slices there were in total.",
+          "grade": 5
+        },
+        "mcqs": [
+          {
+            "question": "If a cake is cut into 12 pieces and you eat 3 of them, what fraction of the cake have you eaten?",
+            "options": [
+              "1/4",
+              "1/3",
+              "1/2",
+              "3/12"
+            ],
+            "correct_index": 3
+          }
+        ],
+        "teacher_notes": {
+          "learning_objective": "To understand that fractions represent parts of a whole",
+          "common_misconceptions": [
+            "Thinking that the top number of a fraction always has to be smaller than the bottom number"
+          ]
+        }
+      },
+      "review": {
+        "scores": {
+          "age_appropriateness": 1,
+          "correctness": 1,
+          "clarity": 1,
+          "coverage": 1
+        },
+        "pass": false,
+        "feedback": []
+      },
+      "refined": {
+        "explanation": {
+          "text": "Fractions are a way to show part of a whole. Imagine you have a pizza that is cut into 8 slices, and you eat 2 of them. You can write this as 2/8, which means you ate 2 slices out of the total 8 slices. The top number, 2, tells us how many slices you ate, and the bottom number, 8, tells us how many slices there were in total. We can also simplify fractions to make them easier to understand. For example, 2/8 can be simplified to 1/4 by dividing both numbers by 2.",
+          "grade": 5
+        },
+        "mcqs": [
+          {
+            "question": "If you have a cake that is cut into 12 pieces and you eat 3 of them, what fraction of the cake have you eaten?",
+            "options": [
+              "1/4",
+              "1/3",
+              "1/6",
+              "2/3"
+            ],
+            "correct_index": 1
+          }
+        ],
+        "teacher_notes": {
+          "learning_objective": "To understand that fractions represent parts of a whole and to be able to write and simplify fractions",
+          "common_misconceptions": [
+            "Thinking that the top number of a fraction always has to be smaller than the bottom number"
+          ]
+        }
+      }
+    },
+    {
+      "attempt": 3,
+      "draft": {
+        "explanation": {
+          "text": "Fractions are a way to show part of a whole. Imagine you have a pizza that is cut into 8 slices, and you eat 2 of them. You can write this as 2/8, which means you ate 2 slices out of the total 8 slices. The top number, 2, tells us how many slices you ate, and the bottom number, 8, tells us how many slices there were in total. We can also simplify fractions to make them easier to understand. For example, 2/8 can be simplified to 1/4 by dividing both numbers by 2.",
+          "grade": 5
+        },
+        "mcqs": [
+          {
+            "question": "If you have a cake that is cut into 12 pieces and you eat 3 of them, what fraction of the cake have you eaten?",
+            "options": [
+              "1/4",
+              "1/3",
+              "1/6",
+              "2/3"
+            ],
+            "correct_index": 1
+          }
+        ],
+        "teacher_notes": {
+          "learning_objective": "To understand that fractions represent parts of a whole and to be able to write and simplify fractions",
+          "common_misconceptions": [
+            "Thinking that the top number of a fraction always has to be smaller than the bottom number"
+          ]
+        }
+      },
+      "review": {
+        "scores": {
+          "age_appropriateness": 1,
+          "correctness": 1,
+          "clarity": 1,
+          "coverage": 1
+        },
+        "pass": false,
+        "feedback": []
+      },
+      "refined": null
+    }
+  ],
+  "final": {
+    "status": "rejected",
+    "content": {
+      "explanation": {
+        "text": "Fractions are a way to show part of a whole. Imagine you have a pizza that is cut into 8 slices, and you eat 2 of them. You can write this as 2/8, which means you ate 2 slices out of the total 8 slices. The top number, 2, tells us how many slices you ate, and the bottom number, 8, tells us how many slices there were in total. We can also simplify fractions to make them easier to understand. For example, 2/8 can be simplified to 1/4 by dividing both numbers by 2.",
+        "grade": 5
+      },
+      "mcqs": [
+        {
+          "question": "If you have a cake that is cut into 12 pieces and you eat 3 of them, what fraction of the cake have you eaten?",
+          "options": [
+            "1/4",
+            "1/3",
+            "1/6",
+            "2/3"
+          ],
+          "correct_index": 1
+        }
+      ],
+      "teacher_notes": {
+        "learning_objective": "To understand that fractions represent parts of a whole and to be able to write and simplify fractions",
+        "common_misconceptions": [
+          "Thinking that the top number of a fraction always has to be smaller than the bottom number"
+        ]
+      }
+    },
+    "tags": null
+  },
+  "timestamps": {
+    "started_at": "2026-07-26T13:24:31.614822",
+    "finished_at": "2026-07-26T13:24:35.981255"
+  }
+}
